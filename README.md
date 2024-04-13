@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Emerson Adonay 👋
 
 <!--
 **AdonayXX/AdonayXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdonayXX&show_icons=true)
+
 -->
