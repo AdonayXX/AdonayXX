@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Emerson Adonay 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=700&center=true&vCenter=true&width=800&lines=Backend+con+Node.js+%2B+SQL;React+y+React+Native+%7C+Frontend;Automatizaci%C3%B3n%2C+DevOps+b%C3%A1sico+y+Proxmox;Estudiante+ITI+%40+UTN+—+Costa+Rica" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3500&pause=700&center=true&vCenter=true&width=720&lines=Backend+con+Node.js+%2B+SQL;React+y+React+Native;Automatizaci%C3%B3n+%7C+DevOps+b%C3%A1sico+%7C+Proxmox;Estudiante+ITI+%40+UTN+-+Costa+Rica" alt="typing intro" />
 </p>
 
 <p align="center">
