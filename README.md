@@ -60,7 +60,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proxmox.svg" height="40" alt="proxmox" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
 </div>
 
 ### 📊 Métricas
