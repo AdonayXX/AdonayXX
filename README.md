@@ -60,7 +60,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proxmox.svg" height="40" alt="proxmox" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nest/nest-original.svg" height="40" alt="oracle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
 </div>
 
 ### 📊 Métricas
@@ -92,5 +92,9 @@
 
 ### 🐍 Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdonayXX/AdonayXX/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdonayXX/AdonayXX/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/AdonayXX/AdonayXX/output/github-snake.svg" />
+  </picture>
 </p>
+
