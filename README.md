@@ -75,20 +75,21 @@
 ### 📌 Proyectos destacados
 <p align="left">
   <a href="https://github.com/NaturAlaloe/NaturalaloeBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaturAlaloe&repo=NaturalaloeBackend&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaturAlaloe&repo=NaturalaloeBackend&theme=transparent&v=2" />
   </a>
   <a href="https://github.com/kevin903476/api-movil-II">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevin903476&repo=api-movil-II&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevin903476&repo=api-movil-II&theme=transparent&v=2" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/AdonayXX/Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdonayXX&repo=Frontend&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdonayXX&repo=Frontend&theme=transparent&v=2" />
   </a>
   <a href="https://github.com/EkarCortes/TutoFlex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EkarCortes&repo=TutoFlex&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EkarCortes&repo=TutoFlex&theme=transparent&v=2" />
   </a>
 </p>
+
 
 ### 🐍 Snake
 <p align="center">
