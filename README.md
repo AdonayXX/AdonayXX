@@ -1,29 +1,55 @@
-<h1 align="center">Hola, soy Emerson Adonay 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3500&pause=700&center=true&vCenter=true&width=720&lines=Backend+Developer+%7C+Node.js+%2B+SQL;Frontend+con+React+%26+React+Native;DevOps+Enthusiast+%7C+Docker+%2B+Proxmox;Estudiante+ITI+%40+UTN+-+Costa+Rica" alt="typing intro" />
-</p>
+<!-- Banner animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=43853D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Emerson+Adonay+%F0%9F%91%8B;Backend+%26+DevOps+Developer;Student+%40+UTN+Costa+Rica" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdonayXX&style=flat-square&color=blue" alt="views" />
-  <img src="https://img.shields.io/github/followers/AdonayXX?style=flat-square&color=blue" alt="followers" />
-</p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdiazdu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://emerson-portfolio-utn.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emdiazdu.dev@gmail.com)
 
-### 👨‍💻 Sobre mí
-Soy estudiante de Ingeniería en Tecnologías de la Información en la UTN (Costa Rica) y un apasionado por el desarrollo de software y la infraestructura.
-
-- ⚡ **Backend:** Especializado en Node.js (Express/NestJS) y bases de datos relacionales (MySQL, SQL Server, Oracle).
-- ⚛️ **Frontend:** Experiencia creando interfaces con React y aprendiendo desarrollo móvil con React Native.
-- 🛠️ **DevOps & Infra:** Prácticas activas con Docker, Linux y virtualización en Proxmox.
-- 🎯 **Enfoque:** Seguridad, automatización y construcción de APIs robustas y escalables.
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 👨‍💻 Sobre mí / About Me
 
-**Backend & Bases de Datos**<br>
+<table>
+<tr>
+<td>
+
+**🇨🇷 Español**
+
+Soy estudiante de **Ingeniería en Tecnologías de la Información** en la UTN (Costa Rica), apasionado por el desarrollo de software y la infraestructura. Me especializo en construir APIs robustas, automatizar procesos y desplegar soluciones escalables.
+
+- ⚡ **Backend:** Node.js (Express / NestJS) y bases de datos relacionales
+- ⚛️ **Frontend:** React y React Native
+- 🛠️ **DevOps:** Docker, Linux, Proxmox
+- 🎯 **Enfoque:** Seguridad, automatización y APIs escalables
+
+</td>
+<td>
+
+**🇺🇸 English**
+
+I'm an **Information Technology Engineering** student at UTN (Costa Rica), passionate about software development and infrastructure. I focus on building robust APIs, automating workflows, and deploying scalable solutions.
+
+- ⚡ **Backend:** Node.js (Express / NestJS) and relational databases
+- ⚛️ **Frontend:** React and React Native
+- 🛠️ **DevOps:** Docker, Linux, Proxmox
+- 🎯 **Focus:** Security, automation and scalable APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+**Backend & Databases**
+
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -33,35 +59,60 @@ Soy estudiante de Ingeniería en Tecnologías de la Información en la UTN (Cost
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Frontend**<br>
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**DevOps & Herramientas**<br>
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
+---
+
+## 📌 Proyectos Destacados / Featured Projects
+
+| Proyecto / Project | Descripción / Description | Stack |
+|---|---|---|
+| 🔒 [NaturAlaloe Backend](https://github.com/NaturAlaloe/NaturalaloeBackend) | API para gestión de capacitaciones de trabajadores: KPIs, administración de personal y versionamiento de POEs, registros maestros y políticas. / API for employee training management: KPIs, staff administration and versioning of SOPs, master records and policies. | Node.js · MySQL |
+| 💻 [NaturAlaloe Frontend](https://github.com/AdonayXX/Frontend) | Interfaz web que consume la API de NaturAlaloe Backend para visualizar y gestionar toda la operación de capacitaciones. / Web interface consuming the NaturAlaloe Backend API to visualize and manage all training operations. | React · TailwindCSS |
+| 📱 [API Móvil II — TutoFlex](https://github.com/kevin903476/api-movil-II) | API backend de TutoFlex, plataforma de tutorías entre estudiantes. Gestiona cursos, horarios de tutores, listas de profesores y reseñas. / Backend API for TutoFlex, a peer tutoring platform. Handles courses, tutor schedules, teacher directories and reviews. | Node.js · Express |
+| 📚 [TutoFlex](https://github.com/EkarCortes/TutoFlex) | Plataforma que conecta estudiantes con tutores pares para la prestación de tutorías académicas. / Platform connecting students with peer tutors for academic tutoring sessions. | React Native |
 
 ---
 
-### 📌 Proyectos Destacados
+## 📊 GitHub Stats
 
-| [🔒 NaturAlaloe Backend](https://github.com/NaturAlaloe/NaturalaloeBackend) | [📱 API Móvil II](https://github.com/kevin903476/api-movil-II) |
-| :---: | :---: |
-| <a href="https://github.com/NaturAlaloe/NaturalaloeBackend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NaturAlaloe&repo=NaturalaloeBackend&theme=transparent&hide_border=true" alt="NaturAlaloe" /></a> | <a href="https://github.com/kevin903476/api-movil-II"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kevin903476&repo=api-movil-II&theme=transparent&hide_border=true" alt="API Movil" /></a> |
-| **[💻 Frontend](https://github.com/AdonayXX/Frontend)** | **[📚 TutoFlex](https://github.com/EkarCortes/TutoFlex)** |
-| <a href="https://github.com/AdonayXX/Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdonayXX&repo=Frontend&theme=transparent&hide_border=true" alt="Frontend" /></a> | <a href="https://github.com/EkarCortes/TutoFlex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EkarCortes&repo=TutoFlex&theme=transparent&hide_border=true" alt="TutoFlex" /></a> |
+<div align="center">
+
+
+<img height="180em" src="https://my-stats-iota-jet.vercel.app/api?username=AdonayXX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://my-stats-iota-jet.vercel.app/api/top-langs/?username=AdonayXX&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AdonayXX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=AdonayXX&color=43853D&style=flat-square)
+
+</div>
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdonayXX/AdonayXX/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/AdonayXX/AdonayXX/output/github-snake.svg" />
-  </picture>
-</p>
+<div align="center">
+
+💬 *"Build things that matter."*
+
+</div>
